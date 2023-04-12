@@ -1,0 +1,18 @@
+:root{
+    --bg-main: #19191F21;
+    --bg-slip: #9CBBF8F7;
+    --main-text: #7957D8;
+    --second-main-text: #361694;
+    --accent-color: #4200FF;
+    --chat-text: #361694;
+
+
+}
+*{
+    font-size: 20px;
+    font-family: 'lobster';
+    color: var(--main-text);
+}
+body{
+    background-color: var(--bg-main);
+}
